@@ -1,0 +1,5 @@
+# Created at 2024-07-19T17:03:30.756
+Boot Manifest-JAR contains absolute paths in classpath 'D:\GitHub\CogmintoCRMApplication\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
